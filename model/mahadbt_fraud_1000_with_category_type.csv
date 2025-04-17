@@ -1,0 +1,1001 @@
+amount_requested,aadhaar_link_verified,multiple_claims,suspicious_ip_activity,fraud_label,category,scheme_name,category_type
+23211,TRUE,TRUE,TRUE,1,general,Pre Matric Scholarship,farmer
+43161,FALSE,FALSE,FALSE,1,st,Farmer Assistance,student
+62055,TRUE,FALSE,FALSE,0,vjnt,Pre Matric Scholarship,student
+34455,FALSE,FALSE,TRUE,0,general,Farmer Assistance,student
+92565,TRUE,TRUE,FALSE,0,vjnt,Labour Welfare,student
+88505,TRUE,FALSE,FALSE,1,obc,Post Matric Scholarship,farmer
+85592,TRUE,TRUE,TRUE,1,general,Pension Scheme,farmer
+76213,TRUE,FALSE,FALSE,1,obc,Labour Welfare,worker
+58795,FALSE,TRUE,TRUE,0,st,Pre Matric Scholarship,worker
+51461,FALSE,FALSE,FALSE,0,obc,Farmer Assistance,student
+24204,TRUE,FALSE,FALSE,1,general,Farmer Assistance,pension
+47248,FALSE,FALSE,FALSE,1,general,Labour Welfare,student
+16301,FALSE,FALSE,FALSE,0,st,Pension Scheme,worker
+35532,FALSE,FALSE,FALSE,1,sc,Labour Welfare,pension
+60495,FALSE,TRUE,FALSE,1,sc,Pension Scheme,student
+85692,TRUE,TRUE,TRUE,1,sc,Pension Scheme,worker
+23583,FALSE,FALSE,TRUE,0,st,Pension Scheme,farmer
+82360,TRUE,TRUE,TRUE,1,general,Farmer Assistance,worker
+39762,FALSE,TRUE,FALSE,0,vjnt,Pension Scheme,pension
+90409,TRUE,FALSE,FALSE,1,general,Farmer Assistance,pension
+5063,TRUE,TRUE,TRUE,0,vjnt,Farmer Assistance,worker
+6028,TRUE,TRUE,FALSE,0,st,Pre Matric Scholarship,worker
+7425,TRUE,FALSE,TRUE,1,vjnt,Pension Scheme,student
+67892,TRUE,TRUE,FALSE,1,vjnt,Farmer Assistance,worker
+30178,FALSE,FALSE,FALSE,1,sc,Pension Scheme,worker
+89921,FALSE,FALSE,FALSE,0,obc,Farmer Assistance,student
+74703,TRUE,TRUE,FALSE,1,vjnt,Labour Welfare,farmer
+80163,TRUE,FALSE,FALSE,1,obc,Pension Scheme,student
+20922,TRUE,TRUE,TRUE,0,sc,Pre Matric Scholarship,student
+68883,TRUE,TRUE,FALSE,0,vjnt,Labour Welfare,worker
+68958,TRUE,FALSE,FALSE,0,st,Labour Welfare,farmer
+39501,FALSE,FALSE,FALSE,0,sc,Pension Scheme,student
+77609,TRUE,FALSE,TRUE,0,st,Pre Matric Scholarship,pension
+50449,TRUE,FALSE,TRUE,1,vjnt,Pension Scheme,pension
+58854,FALSE,FALSE,FALSE,0,st,Pension Scheme,farmer
+25127,TRUE,FALSE,TRUE,0,vjnt,Pre Matric Scholarship,student
+28360,FALSE,FALSE,FALSE,1,obc,Farmer Assistance,student
+58430,TRUE,FALSE,TRUE,1,st,Pension Scheme,farmer
+87699,FALSE,FALSE,TRUE,0,st,Farmer Assistance,farmer
+74722,FALSE,TRUE,FALSE,0,obc,Farmer Assistance,student
+9042,TRUE,FALSE,FALSE,1,obc,Labour Welfare,worker
+15684,FALSE,FALSE,FALSE,1,obc,Farmer Assistance,student
+62191,TRUE,FALSE,TRUE,1,obc,Pre Matric Scholarship,pension
+39094,TRUE,FALSE,FALSE,1,st,Pre Matric Scholarship,student
+95267,FALSE,FALSE,FALSE,0,vjnt,Labour Welfare,worker
+69178,FALSE,FALSE,FALSE,1,general,Pre Matric Scholarship,worker
+59616,TRUE,TRUE,FALSE,0,obc,Pre Matric Scholarship,worker
+92941,FALSE,TRUE,FALSE,1,vjnt,Farmer Assistance,pension
+15286,TRUE,FALSE,FALSE,0,obc,Pre Matric Scholarship,worker
+73943,TRUE,TRUE,TRUE,0,obc,Pre Matric Scholarship,farmer
+75140,FALSE,FALSE,TRUE,1,vjnt,Farmer Assistance,farmer
+26923,FALSE,TRUE,FALSE,1,st,Pension Scheme,pension
+29159,TRUE,FALSE,FALSE,0,obc,Pre Matric Scholarship,worker
+41365,FALSE,TRUE,TRUE,1,vjnt,Pre Matric Scholarship,farmer
+65920,TRUE,TRUE,TRUE,0,general,Labour Welfare,pension
+8338,FALSE,TRUE,FALSE,0,sc,Pension Scheme,pension
+5209,TRUE,FALSE,TRUE,0,sc,Farmer Assistance,worker
+65295,TRUE,TRUE,TRUE,1,vjnt,Pension Scheme,farmer
+51080,TRUE,TRUE,FALSE,0,obc,Pension Scheme,pension
+83288,FALSE,FALSE,FALSE,0,general,Post Matric Scholarship,worker
+11146,FALSE,TRUE,TRUE,0,st,Pre Matric Scholarship,worker
+93888,TRUE,TRUE,TRUE,1,st,Post Matric Scholarship,farmer
+26595,FALSE,TRUE,FALSE,1,st,Pension Scheme,worker
+77323,TRUE,FALSE,FALSE,1,vjnt,Labour Welfare,student
+15018,FALSE,FALSE,TRUE,1,obc,Pension Scheme,student
+23498,FALSE,TRUE,FALSE,0,sc,Post Matric Scholarship,student
+83593,TRUE,FALSE,TRUE,1,obc,Pension Scheme,student
+14627,FALSE,FALSE,FALSE,1,sc,Labour Welfare,student
+5462,TRUE,TRUE,FALSE,0,obc,Pension Scheme,farmer
+35351,TRUE,TRUE,TRUE,1,obc,Pension Scheme,student
+89112,TRUE,TRUE,TRUE,1,vjnt,Pension Scheme,worker
+50781,TRUE,TRUE,FALSE,1,obc,Farmer Assistance,pension
+18044,TRUE,FALSE,FALSE,0,st,Pension Scheme,student
+55591,TRUE,FALSE,TRUE,1,obc,Pension Scheme,student
+19348,TRUE,FALSE,FALSE,0,st,Pre Matric Scholarship,student
+85738,TRUE,FALSE,TRUE,0,st,Pre Matric Scholarship,farmer
+68978,TRUE,TRUE,TRUE,0,obc,Labour Welfare,pension
+38539,TRUE,FALSE,FALSE,1,obc,Pre Matric Scholarship,worker
+56596,TRUE,FALSE,TRUE,0,obc,Pension Scheme,farmer
+73789,TRUE,TRUE,TRUE,0,general,Post Matric Scholarship,student
+62529,FALSE,FALSE,TRUE,0,general,Post Matric Scholarship,student
+76706,FALSE,FALSE,TRUE,1,sc,Pension Scheme,pension
+68821,FALSE,TRUE,FALSE,0,obc,Labour Welfare,farmer
+83688,TRUE,TRUE,FALSE,0,sc,Labour Welfare,farmer
+23192,TRUE,FALSE,TRUE,0,obc,Pre Matric Scholarship,student
+54067,TRUE,TRUE,FALSE,1,general,Labour Welfare,worker
+88445,TRUE,TRUE,FALSE,0,vjnt,Pre Matric Scholarship,student
+21847,TRUE,TRUE,FALSE,0,st,Farmer Assistance,farmer
+99773,FALSE,FALSE,FALSE,0,vjnt,Farmer Assistance,worker
+71088,FALSE,TRUE,TRUE,0,sc,Pre Matric Scholarship,student
+78343,FALSE,TRUE,FALSE,1,st,Post Matric Scholarship,worker
+40962,FALSE,TRUE,TRUE,1,st,Pension Scheme,farmer
+34398,FALSE,TRUE,TRUE,0,sc,Post Matric Scholarship,student
+57564,FALSE,TRUE,FALSE,0,sc,Farmer Assistance,farmer
+68590,TRUE,TRUE,FALSE,1,st,Farmer Assistance,worker
+58265,FALSE,FALSE,TRUE,1,obc,Pre Matric Scholarship,pension
+61657,TRUE,TRUE,FALSE,0,obc,Farmer Assistance,farmer
+40099,FALSE,FALSE,FALSE,1,st,Pre Matric Scholarship,farmer
+36840,TRUE,FALSE,TRUE,1,obc,Pension Scheme,farmer
+77040,FALSE,FALSE,TRUE,0,vjnt,Farmer Assistance,worker
+88254,TRUE,TRUE,TRUE,0,general,Farmer Assistance,student
+22351,TRUE,TRUE,FALSE,1,st,Post Matric Scholarship,farmer
+12753,FALSE,FALSE,FALSE,1,obc,Pre Matric Scholarship,farmer
+22983,TRUE,FALSE,FALSE,1,obc,Farmer Assistance,pension
+18480,FALSE,TRUE,FALSE,0,general,Farmer Assistance,student
+57135,TRUE,FALSE,FALSE,0,general,Pre Matric Scholarship,pension
+40324,FALSE,TRUE,TRUE,1,st,Post Matric Scholarship,farmer
+13749,FALSE,TRUE,FALSE,0,obc,Labour Welfare,pension
+18123,TRUE,FALSE,TRUE,0,obc,Post Matric Scholarship,farmer
+64823,TRUE,FALSE,FALSE,0,general,Post Matric Scholarship,pension
+77301,TRUE,FALSE,FALSE,0,sc,Post Matric Scholarship,worker
+33866,FALSE,TRUE,TRUE,0,general,Post Matric Scholarship,worker
+78538,FALSE,FALSE,TRUE,0,obc,Farmer Assistance,student
+59796,FALSE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,farmer
+42616,FALSE,FALSE,FALSE,1,st,Post Matric Scholarship,student
+43167,TRUE,FALSE,FALSE,1,obc,Post Matric Scholarship,student
+88446,FALSE,FALSE,FALSE,0,sc,Pre Matric Scholarship,student
+99150,TRUE,FALSE,FALSE,0,general,Post Matric Scholarship,student
+69863,FALSE,TRUE,FALSE,0,vjnt,Pre Matric Scholarship,student
+78134,TRUE,FALSE,FALSE,1,general,Post Matric Scholarship,student
+35013,TRUE,TRUE,TRUE,1,st,Pre Matric Scholarship,farmer
+52802,FALSE,FALSE,TRUE,1,general,Pension Scheme,student
+94402,FALSE,FALSE,TRUE,1,obc,Pre Matric Scholarship,pension
+68190,TRUE,TRUE,TRUE,1,vjnt,Labour Welfare,pension
+14707,TRUE,TRUE,TRUE,1,general,Farmer Assistance,worker
+50972,FALSE,TRUE,FALSE,0,general,Farmer Assistance,worker
+84363,FALSE,TRUE,TRUE,0,sc,Pension Scheme,worker
+93641,FALSE,TRUE,FALSE,1,st,Post Matric Scholarship,farmer
+94564,TRUE,TRUE,FALSE,0,sc,Pension Scheme,farmer
+50053,TRUE,TRUE,TRUE,0,obc,Pre Matric Scholarship,pension
+83782,TRUE,FALSE,FALSE,1,obc,Pre Matric Scholarship,farmer
+66615,TRUE,TRUE,FALSE,1,general,Pension Scheme,student
+48602,TRUE,FALSE,TRUE,0,general,Post Matric Scholarship,worker
+6348,TRUE,FALSE,TRUE,0,obc,Farmer Assistance,worker
+80384,TRUE,TRUE,FALSE,1,general,Pre Matric Scholarship,student
+83574,TRUE,FALSE,TRUE,0,vjnt,Pre Matric Scholarship,farmer
+44570,TRUE,TRUE,TRUE,1,sc,Pension Scheme,student
+54217,FALSE,TRUE,TRUE,0,obc,Post Matric Scholarship,pension
+82226,TRUE,FALSE,TRUE,1,general,Pension Scheme,student
+93788,FALSE,TRUE,FALSE,0,st,Farmer Assistance,student
+71492,TRUE,FALSE,TRUE,0,general,Labour Welfare,farmer
+44319,TRUE,FALSE,FALSE,1,sc,Farmer Assistance,pension
+62580,TRUE,TRUE,FALSE,1,general,Post Matric Scholarship,student
+15991,FALSE,FALSE,FALSE,0,st,Post Matric Scholarship,worker
+98406,TRUE,TRUE,TRUE,1,st,Pension Scheme,pension
+52493,TRUE,TRUE,TRUE,1,obc,Farmer Assistance,worker
+9725,FALSE,TRUE,FALSE,0,st,Pension Scheme,worker
+69711,FALSE,FALSE,TRUE,1,sc,Farmer Assistance,pension
+63956,TRUE,TRUE,TRUE,0,vjnt,Pension Scheme,student
+72307,FALSE,TRUE,TRUE,0,vjnt,Farmer Assistance,student
+68387,TRUE,FALSE,TRUE,1,sc,Pre Matric Scholarship,pension
+94549,TRUE,FALSE,FALSE,0,vjnt,Farmer Assistance,student
+85267,FALSE,FALSE,TRUE,1,sc,Post Matric Scholarship,worker
+53349,FALSE,FALSE,TRUE,0,sc,Pre Matric Scholarship,worker
+85795,TRUE,TRUE,FALSE,1,vjnt,Post Matric Scholarship,pension
+95960,TRUE,FALSE,TRUE,0,st,Pension Scheme,worker
+24076,FALSE,TRUE,TRUE,0,general,Farmer Assistance,farmer
+14602,TRUE,TRUE,TRUE,1,obc,Pre Matric Scholarship,farmer
+39328,TRUE,TRUE,TRUE,0,obc,Farmer Assistance,farmer
+31341,FALSE,FALSE,TRUE,0,general,Farmer Assistance,worker
+68263,FALSE,FALSE,TRUE,0,sc,Pre Matric Scholarship,student
+62847,TRUE,TRUE,FALSE,1,obc,Post Matric Scholarship,student
+94728,FALSE,FALSE,TRUE,0,obc,Pre Matric Scholarship,pension
+13548,TRUE,TRUE,TRUE,1,sc,Post Matric Scholarship,farmer
+51857,FALSE,FALSE,FALSE,0,vjnt,Pre Matric Scholarship,farmer
+41565,FALSE,TRUE,FALSE,0,sc,Pre Matric Scholarship,student
+21781,FALSE,FALSE,TRUE,1,obc,Post Matric Scholarship,worker
+33139,FALSE,TRUE,TRUE,1,general,Farmer Assistance,worker
+12587,FALSE,TRUE,TRUE,0,vjnt,Pension Scheme,student
+52017,FALSE,FALSE,FALSE,1,general,Post Matric Scholarship,pension
+41052,FALSE,TRUE,TRUE,1,obc,Labour Welfare,farmer
+16775,FALSE,TRUE,FALSE,0,vjnt,Post Matric Scholarship,farmer
+53077,FALSE,TRUE,TRUE,1,sc,Pre Matric Scholarship,worker
+11000,TRUE,FALSE,TRUE,0,st,Labour Welfare,farmer
+23266,TRUE,FALSE,FALSE,1,st,Pension Scheme,pension
+15412,TRUE,TRUE,TRUE,0,sc,Labour Welfare,pension
+18274,FALSE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,pension
+23265,FALSE,TRUE,TRUE,1,vjnt,Farmer Assistance,farmer
+91523,TRUE,TRUE,FALSE,1,obc,Labour Welfare,worker
+9042,TRUE,FALSE,FALSE,0,vjnt,Farmer Assistance,farmer
+13034,FALSE,TRUE,FALSE,1,general,Labour Welfare,farmer
+69128,FALSE,FALSE,FALSE,1,sc,Farmer Assistance,worker
+36542,TRUE,FALSE,FALSE,1,sc,Pension Scheme,pension
+39301,TRUE,TRUE,FALSE,1,obc,Post Matric Scholarship,pension
+30447,TRUE,TRUE,TRUE,1,st,Farmer Assistance,worker
+98958,FALSE,FALSE,FALSE,1,vjnt,Farmer Assistance,pension
+7233,FALSE,FALSE,TRUE,1,obc,Pre Matric Scholarship,farmer
+28586,FALSE,TRUE,FALSE,0,obc,Pre Matric Scholarship,student
+57006,TRUE,TRUE,TRUE,0,vjnt,Farmer Assistance,student
+5157,FALSE,FALSE,FALSE,0,st,Pre Matric Scholarship,farmer
+19022,TRUE,FALSE,TRUE,0,st,Farmer Assistance,pension
+47117,FALSE,FALSE,TRUE,0,st,Labour Welfare,worker
+56509,TRUE,TRUE,TRUE,0,obc,Farmer Assistance,student
+68302,TRUE,TRUE,FALSE,1,obc,Pre Matric Scholarship,pension
+70532,TRUE,TRUE,TRUE,1,obc,Labour Welfare,worker
+10074,TRUE,FALSE,FALSE,1,vjnt,Farmer Assistance,pension
+60256,TRUE,TRUE,FALSE,0,sc,Pension Scheme,worker
+64194,TRUE,FALSE,FALSE,0,st,Pension Scheme,student
+83955,FALSE,TRUE,FALSE,0,vjnt,Pre Matric Scholarship,worker
+24122,FALSE,TRUE,FALSE,0,st,Farmer Assistance,pension
+21023,FALSE,TRUE,TRUE,1,st,Post Matric Scholarship,farmer
+74832,TRUE,FALSE,TRUE,0,general,Post Matric Scholarship,student
+74765,TRUE,FALSE,TRUE,1,vjnt,Post Matric Scholarship,worker
+22261,TRUE,FALSE,FALSE,1,general,Post Matric Scholarship,farmer
+5335,FALSE,TRUE,TRUE,1,obc,Pre Matric Scholarship,student
+53446,FALSE,TRUE,TRUE,0,st,Labour Welfare,farmer
+7595,TRUE,FALSE,FALSE,0,obc,Farmer Assistance,student
+10095,FALSE,TRUE,TRUE,0,vjnt,Farmer Assistance,farmer
+44910,FALSE,TRUE,TRUE,1,general,Pension Scheme,worker
+80200,TRUE,FALSE,TRUE,1,vjnt,Pension Scheme,pension
+53913,TRUE,TRUE,FALSE,1,vjnt,Pension Scheme,pension
+38660,TRUE,TRUE,FALSE,0,st,Pension Scheme,worker
+53945,TRUE,TRUE,FALSE,1,vjnt,Pre Matric Scholarship,farmer
+43396,TRUE,FALSE,FALSE,1,vjnt,Pension Scheme,pension
+17547,TRUE,TRUE,FALSE,0,vjnt,Farmer Assistance,student
+30984,FALSE,TRUE,TRUE,0,vjnt,Pension Scheme,farmer
+47928,FALSE,TRUE,FALSE,0,general,Pre Matric Scholarship,farmer
+26413,FALSE,TRUE,TRUE,0,obc,Pension Scheme,farmer
+48391,FALSE,FALSE,TRUE,0,obc,Labour Welfare,worker
+39713,FALSE,TRUE,TRUE,0,st,Labour Welfare,pension
+6627,TRUE,FALSE,FALSE,1,obc,Labour Welfare,pension
+58401,FALSE,FALSE,TRUE,1,obc,Labour Welfare,pension
+24397,FALSE,FALSE,FALSE,0,st,Farmer Assistance,farmer
+97070,TRUE,TRUE,FALSE,0,vjnt,Labour Welfare,student
+53849,FALSE,FALSE,FALSE,1,sc,Pre Matric Scholarship,farmer
+53787,FALSE,FALSE,FALSE,0,sc,Pre Matric Scholarship,student
+5105,FALSE,FALSE,TRUE,0,st,Pension Scheme,pension
+28263,FALSE,TRUE,FALSE,1,general,Farmer Assistance,pension
+90624,FALSE,FALSE,TRUE,0,vjnt,Labour Welfare,pension
+18690,FALSE,TRUE,TRUE,1,sc,Labour Welfare,farmer
+61814,TRUE,FALSE,FALSE,0,general,Labour Welfare,worker
+91250,TRUE,TRUE,TRUE,0,vjnt,Farmer Assistance,student
+75555,FALSE,FALSE,TRUE,0,obc,Labour Welfare,worker
+28962,TRUE,FALSE,TRUE,0,obc,Pre Matric Scholarship,student
+71611,FALSE,FALSE,TRUE,1,obc,Pre Matric Scholarship,farmer
+79731,FALSE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,worker
+98302,TRUE,TRUE,FALSE,0,vjnt,Post Matric Scholarship,worker
+14359,FALSE,TRUE,FALSE,1,sc,Farmer Assistance,farmer
+9627,FALSE,FALSE,TRUE,1,st,Pre Matric Scholarship,pension
+69221,FALSE,TRUE,FALSE,1,general,Pre Matric Scholarship,pension
+53657,FALSE,FALSE,TRUE,0,st,Post Matric Scholarship,farmer
+16339,TRUE,TRUE,TRUE,1,general,Pre Matric Scholarship,worker
+18826,FALSE,FALSE,TRUE,0,general,Pension Scheme,worker
+18484,FALSE,FALSE,TRUE,0,sc,Pre Matric Scholarship,pension
+54218,FALSE,TRUE,FALSE,0,vjnt,Pre Matric Scholarship,farmer
+80149,TRUE,TRUE,TRUE,0,general,Labour Welfare,student
+50483,TRUE,FALSE,TRUE,1,sc,Pre Matric Scholarship,student
+87655,FALSE,TRUE,FALSE,0,general,Pension Scheme,pension
+65646,FALSE,FALSE,FALSE,1,sc,Post Matric Scholarship,pension
+92358,TRUE,FALSE,TRUE,1,sc,Pension Scheme,pension
+10822,FALSE,FALSE,FALSE,0,obc,Pre Matric Scholarship,worker
+13975,FALSE,TRUE,TRUE,0,obc,Post Matric Scholarship,farmer
+5550,FALSE,TRUE,FALSE,0,sc,Pension Scheme,student
+45121,TRUE,TRUE,TRUE,1,vjnt,Farmer Assistance,farmer
+47865,TRUE,TRUE,FALSE,1,st,Pension Scheme,pension
+75388,FALSE,TRUE,FALSE,0,obc,Labour Welfare,farmer
+60064,FALSE,FALSE,TRUE,1,vjnt,Pension Scheme,pension
+16484,FALSE,TRUE,FALSE,1,general,Farmer Assistance,farmer
+31444,TRUE,FALSE,FALSE,0,obc,Pre Matric Scholarship,student
+15995,FALSE,TRUE,FALSE,0,vjnt,Post Matric Scholarship,pension
+27441,FALSE,TRUE,FALSE,1,obc,Labour Welfare,pension
+28035,FALSE,FALSE,TRUE,0,vjnt,Pension Scheme,worker
+44684,TRUE,FALSE,FALSE,1,vjnt,Farmer Assistance,pension
+90411,FALSE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,pension
+47571,TRUE,FALSE,FALSE,1,sc,Pre Matric Scholarship,student
+41431,FALSE,TRUE,FALSE,0,obc,Pre Matric Scholarship,farmer
+63576,FALSE,FALSE,TRUE,0,obc,Pension Scheme,farmer
+81605,FALSE,FALSE,FALSE,1,general,Pension Scheme,worker
+36485,TRUE,TRUE,FALSE,1,general,Farmer Assistance,farmer
+93103,FALSE,TRUE,FALSE,1,sc,Pension Scheme,worker
+52641,TRUE,TRUE,TRUE,1,vjnt,Post Matric Scholarship,student
+27164,FALSE,FALSE,FALSE,1,vjnt,Labour Welfare,worker
+69469,TRUE,FALSE,FALSE,1,st,Pension Scheme,worker
+5235,TRUE,FALSE,FALSE,0,general,Pension Scheme,farmer
+47399,TRUE,FALSE,FALSE,0,st,Pension Scheme,pension
+78998,TRUE,FALSE,TRUE,1,general,Farmer Assistance,pension
+26398,TRUE,FALSE,TRUE,0,sc,Pre Matric Scholarship,pension
+50858,FALSE,TRUE,FALSE,1,st,Farmer Assistance,student
+42036,TRUE,FALSE,FALSE,1,general,Pre Matric Scholarship,student
+31585,FALSE,TRUE,TRUE,1,general,Post Matric Scholarship,farmer
+28894,FALSE,FALSE,TRUE,0,sc,Post Matric Scholarship,farmer
+38411,TRUE,FALSE,TRUE,1,st,Post Matric Scholarship,worker
+68222,TRUE,FALSE,TRUE,0,sc,Pre Matric Scholarship,student
+85286,TRUE,FALSE,FALSE,1,general,Pre Matric Scholarship,pension
+14964,TRUE,TRUE,FALSE,0,general,Pre Matric Scholarship,pension
+94378,FALSE,TRUE,TRUE,1,obc,Post Matric Scholarship,student
+45133,FALSE,FALSE,FALSE,1,obc,Pension Scheme,pension
+83011,TRUE,FALSE,FALSE,1,vjnt,Pension Scheme,student
+27910,FALSE,TRUE,TRUE,1,st,Pension Scheme,pension
+84504,FALSE,TRUE,TRUE,1,obc,Post Matric Scholarship,pension
+94406,TRUE,FALSE,FALSE,1,obc,Pension Scheme,worker
+10776,TRUE,TRUE,TRUE,0,obc,Post Matric Scholarship,student
+7190,TRUE,TRUE,FALSE,1,st,Farmer Assistance,pension
+88816,FALSE,FALSE,TRUE,0,obc,Farmer Assistance,student
+80648,FALSE,FALSE,FALSE,1,obc,Labour Welfare,farmer
+41734,FALSE,FALSE,FALSE,0,obc,Farmer Assistance,worker
+46610,TRUE,FALSE,TRUE,0,sc,Labour Welfare,student
+90915,FALSE,FALSE,TRUE,0,obc,Labour Welfare,student
+79106,FALSE,FALSE,FALSE,1,sc,Post Matric Scholarship,student
+98588,TRUE,TRUE,TRUE,1,obc,Post Matric Scholarship,worker
+98018,FALSE,FALSE,FALSE,1,vjnt,Pension Scheme,pension
+80283,TRUE,FALSE,TRUE,0,vjnt,Pension Scheme,worker
+45481,TRUE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,farmer
+80698,FALSE,FALSE,FALSE,0,obc,Labour Welfare,pension
+81618,TRUE,TRUE,TRUE,0,sc,Labour Welfare,worker
+44949,TRUE,TRUE,TRUE,0,vjnt,Pension Scheme,farmer
+72659,FALSE,TRUE,FALSE,0,obc,Pre Matric Scholarship,student
+57398,FALSE,TRUE,FALSE,1,obc,Farmer Assistance,worker
+62230,TRUE,FALSE,TRUE,1,sc,Pension Scheme,farmer
+95674,TRUE,TRUE,FALSE,0,st,Post Matric Scholarship,pension
+48645,TRUE,TRUE,TRUE,0,obc,Post Matric Scholarship,worker
+17307,FALSE,TRUE,FALSE,1,sc,Pension Scheme,farmer
+46570,FALSE,TRUE,TRUE,0,obc,Labour Welfare,pension
+81330,FALSE,FALSE,FALSE,0,st,Pension Scheme,farmer
+96477,FALSE,TRUE,FALSE,0,st,Pension Scheme,pension
+16159,FALSE,TRUE,TRUE,1,sc,Post Matric Scholarship,student
+33152,TRUE,FALSE,FALSE,0,general,Post Matric Scholarship,worker
+76060,FALSE,TRUE,TRUE,1,sc,Farmer Assistance,farmer
+63116,FALSE,FALSE,TRUE,1,obc,Labour Welfare,student
+63845,FALSE,FALSE,FALSE,0,obc,Pre Matric Scholarship,pension
+97992,FALSE,TRUE,FALSE,0,sc,Post Matric Scholarship,farmer
+31006,FALSE,FALSE,FALSE,0,general,Pension Scheme,worker
+7659,TRUE,FALSE,TRUE,0,obc,Pension Scheme,pension
+14582,FALSE,FALSE,FALSE,1,sc,Pension Scheme,farmer
+94641,TRUE,FALSE,FALSE,1,sc,Farmer Assistance,pension
+44095,FALSE,FALSE,TRUE,0,sc,Farmer Assistance,pension
+47906,TRUE,TRUE,TRUE,1,vjnt,Post Matric Scholarship,pension
+67530,TRUE,FALSE,TRUE,1,vjnt,Farmer Assistance,farmer
+79661,TRUE,FALSE,FALSE,1,vjnt,Farmer Assistance,worker
+40079,FALSE,FALSE,TRUE,1,sc,Pre Matric Scholarship,worker
+81411,TRUE,TRUE,TRUE,1,vjnt,Labour Welfare,pension
+90181,TRUE,FALSE,FALSE,0,sc,Pension Scheme,student
+6607,TRUE,TRUE,FALSE,0,general,Pension Scheme,student
+55230,FALSE,TRUE,FALSE,0,obc,Farmer Assistance,worker
+53185,TRUE,FALSE,FALSE,0,general,Pre Matric Scholarship,student
+68804,TRUE,FALSE,TRUE,1,vjnt,Labour Welfare,student
+85162,TRUE,TRUE,TRUE,0,sc,Post Matric Scholarship,worker
+6929,FALSE,FALSE,TRUE,0,st,Pension Scheme,pension
+49097,TRUE,FALSE,TRUE,1,sc,Post Matric Scholarship,student
+36533,TRUE,FALSE,TRUE,1,obc,Labour Welfare,student
+44321,TRUE,TRUE,FALSE,1,st,Pre Matric Scholarship,farmer
+13779,TRUE,TRUE,FALSE,0,st,Post Matric Scholarship,student
+59908,FALSE,TRUE,FALSE,1,general,Post Matric Scholarship,student
+36528,TRUE,FALSE,FALSE,0,general,Pre Matric Scholarship,worker
+70201,FALSE,TRUE,TRUE,0,sc,Farmer Assistance,student
+51737,FALSE,FALSE,FALSE,1,sc,Pension Scheme,farmer
+36577,FALSE,TRUE,FALSE,1,general,Post Matric Scholarship,student
+7855,FALSE,FALSE,TRUE,0,sc,Post Matric Scholarship,worker
+45411,FALSE,TRUE,TRUE,0,vjnt,Pension Scheme,pension
+69801,TRUE,TRUE,TRUE,0,vjnt,Pre Matric Scholarship,worker
+41193,TRUE,TRUE,FALSE,1,vjnt,Farmer Assistance,student
+79321,TRUE,FALSE,FALSE,1,st,Post Matric Scholarship,worker
+37081,FALSE,TRUE,FALSE,0,st,Pre Matric Scholarship,student
+25369,TRUE,TRUE,TRUE,1,general,Farmer Assistance,student
+72383,TRUE,TRUE,TRUE,0,st,Post Matric Scholarship,pension
+52284,FALSE,TRUE,TRUE,1,sc,Post Matric Scholarship,student
+54941,FALSE,FALSE,FALSE,1,sc,Pension Scheme,pension
+53366,TRUE,FALSE,FALSE,1,sc,Post Matric Scholarship,pension
+44685,TRUE,TRUE,FALSE,1,sc,Post Matric Scholarship,worker
+61304,TRUE,FALSE,FALSE,1,vjnt,Pension Scheme,worker
+79732,FALSE,FALSE,TRUE,0,general,Pension Scheme,worker
+72582,TRUE,TRUE,TRUE,0,sc,Post Matric Scholarship,worker
+51207,FALSE,TRUE,FALSE,0,sc,Post Matric Scholarship,pension
+43581,TRUE,FALSE,TRUE,0,obc,Farmer Assistance,farmer
+9127,TRUE,TRUE,FALSE,0,general,Pre Matric Scholarship,worker
+23896,FALSE,FALSE,TRUE,0,sc,Post Matric Scholarship,student
+13905,TRUE,FALSE,FALSE,1,vjnt,Farmer Assistance,farmer
+67236,FALSE,FALSE,FALSE,1,obc,Pre Matric Scholarship,worker
+16444,TRUE,TRUE,FALSE,1,general,Farmer Assistance,student
+59426,FALSE,FALSE,TRUE,0,general,Pre Matric Scholarship,worker
+15052,FALSE,TRUE,FALSE,0,sc,Pre Matric Scholarship,student
+86698,FALSE,FALSE,TRUE,1,st,Pension Scheme,farmer
+5165,FALSE,TRUE,FALSE,1,st,Pension Scheme,worker
+68315,TRUE,FALSE,FALSE,0,obc,Labour Welfare,worker
+12413,FALSE,TRUE,FALSE,1,vjnt,Pre Matric Scholarship,farmer
+52048,TRUE,FALSE,TRUE,1,general,Labour Welfare,farmer
+38317,FALSE,FALSE,TRUE,1,vjnt,Pension Scheme,farmer
+95443,TRUE,FALSE,FALSE,1,sc,Post Matric Scholarship,worker
+45834,FALSE,FALSE,TRUE,1,vjnt,Pre Matric Scholarship,worker
+94323,TRUE,FALSE,FALSE,0,st,Labour Welfare,pension
+43926,FALSE,FALSE,FALSE,0,general,Farmer Assistance,student
+69467,TRUE,TRUE,FALSE,1,vjnt,Labour Welfare,student
+26942,TRUE,TRUE,FALSE,1,st,Post Matric Scholarship,farmer
+21062,TRUE,FALSE,TRUE,1,vjnt,Pension Scheme,student
+42927,TRUE,FALSE,FALSE,0,sc,Pre Matric Scholarship,pension
+74171,TRUE,TRUE,TRUE,0,vjnt,Pension Scheme,farmer
+35967,TRUE,FALSE,TRUE,0,obc,Farmer Assistance,worker
+80443,TRUE,FALSE,TRUE,1,obc,Post Matric Scholarship,worker
+72065,FALSE,TRUE,FALSE,0,vjnt,Pension Scheme,farmer
+88248,TRUE,FALSE,FALSE,1,obc,Labour Welfare,worker
+5132,FALSE,FALSE,FALSE,0,general,Labour Welfare,worker
+36601,FALSE,TRUE,TRUE,0,obc,Pre Matric Scholarship,student
+85028,FALSE,FALSE,FALSE,1,general,Pre Matric Scholarship,farmer
+10269,FALSE,FALSE,FALSE,1,st,Post Matric Scholarship,farmer
+68353,FALSE,FALSE,TRUE,1,obc,Labour Welfare,pension
+64182,TRUE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,worker
+71944,TRUE,FALSE,FALSE,1,vjnt,Labour Welfare,pension
+70993,FALSE,FALSE,FALSE,0,st,Pension Scheme,pension
+96058,TRUE,FALSE,FALSE,0,vjnt,Pre Matric Scholarship,pension
+91495,TRUE,TRUE,FALSE,0,sc,Labour Welfare,worker
+39870,TRUE,FALSE,TRUE,0,sc,Farmer Assistance,farmer
+85209,TRUE,FALSE,TRUE,1,vjnt,Pre Matric Scholarship,student
+32534,FALSE,FALSE,TRUE,0,st,Pre Matric Scholarship,worker
+81722,TRUE,TRUE,TRUE,1,general,Post Matric Scholarship,farmer
+50228,FALSE,FALSE,TRUE,1,vjnt,Labour Welfare,student
+61091,TRUE,FALSE,TRUE,1,general,Labour Welfare,pension
+37089,FALSE,TRUE,FALSE,0,obc,Pre Matric Scholarship,student
+75103,FALSE,FALSE,TRUE,0,obc,Farmer Assistance,student
+29522,TRUE,TRUE,TRUE,0,sc,Pre Matric Scholarship,pension
+85852,FALSE,FALSE,FALSE,0,general,Labour Welfare,student
+6413,FALSE,FALSE,TRUE,0,general,Labour Welfare,worker
+37206,FALSE,TRUE,TRUE,1,general,Labour Welfare,worker
+73796,TRUE,TRUE,FALSE,0,vjnt,Post Matric Scholarship,farmer
+30807,FALSE,TRUE,FALSE,0,obc,Pre Matric Scholarship,pension
+34010,TRUE,FALSE,FALSE,1,sc,Pre Matric Scholarship,farmer
+16715,TRUE,TRUE,TRUE,0,st,Labour Welfare,farmer
+17948,FALSE,FALSE,TRUE,0,st,Farmer Assistance,pension
+45191,TRUE,FALSE,TRUE,1,st,Pre Matric Scholarship,pension
+39932,TRUE,TRUE,FALSE,1,obc,Pre Matric Scholarship,pension
+42200,TRUE,FALSE,FALSE,1,obc,Pre Matric Scholarship,student
+90986,TRUE,FALSE,TRUE,0,sc,Post Matric Scholarship,farmer
+97815,TRUE,FALSE,TRUE,0,vjnt,Pension Scheme,worker
+39533,FALSE,FALSE,TRUE,1,general,Pre Matric Scholarship,pension
+11457,TRUE,TRUE,FALSE,1,obc,Labour Welfare,worker
+6175,FALSE,TRUE,TRUE,1,obc,Farmer Assistance,worker
+11253,FALSE,FALSE,FALSE,0,obc,Pension Scheme,pension
+39134,FALSE,FALSE,FALSE,0,sc,Pre Matric Scholarship,student
+59196,FALSE,FALSE,FALSE,0,obc,Pre Matric Scholarship,pension
+66871,FALSE,TRUE,TRUE,0,vjnt,Labour Welfare,worker
+80190,FALSE,FALSE,TRUE,0,sc,Post Matric Scholarship,pension
+85659,TRUE,FALSE,FALSE,0,obc,Post Matric Scholarship,worker
+54823,FALSE,TRUE,TRUE,0,sc,Farmer Assistance,worker
+81507,FALSE,FALSE,TRUE,0,st,Post Matric Scholarship,worker
+40351,TRUE,FALSE,FALSE,0,vjnt,Labour Welfare,farmer
+90740,TRUE,TRUE,TRUE,1,sc,Pre Matric Scholarship,worker
+79633,TRUE,TRUE,FALSE,0,st,Post Matric Scholarship,farmer
+97553,TRUE,FALSE,TRUE,1,general,Pension Scheme,worker
+91029,TRUE,FALSE,TRUE,1,sc,Pension Scheme,student
+15929,TRUE,TRUE,FALSE,0,sc,Farmer Assistance,student
+92658,FALSE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,student
+29244,TRUE,TRUE,FALSE,1,st,Pension Scheme,student
+70900,FALSE,FALSE,TRUE,0,obc,Pension Scheme,worker
+51004,FALSE,TRUE,TRUE,1,sc,Pension Scheme,farmer
+40007,TRUE,TRUE,TRUE,0,general,Pre Matric Scholarship,student
+77168,FALSE,FALSE,TRUE,1,obc,Labour Welfare,worker
+53401,FALSE,FALSE,FALSE,1,st,Labour Welfare,pension
+58136,TRUE,TRUE,TRUE,1,obc,Farmer Assistance,student
+53083,TRUE,FALSE,TRUE,1,obc,Post Matric Scholarship,pension
+64752,FALSE,FALSE,FALSE,0,general,Farmer Assistance,student
+64995,TRUE,TRUE,TRUE,1,vjnt,Pension Scheme,pension
+35983,FALSE,TRUE,FALSE,0,vjnt,Farmer Assistance,student
+85336,FALSE,FALSE,FALSE,1,obc,Farmer Assistance,farmer
+88844,FALSE,TRUE,FALSE,1,sc,Pre Matric Scholarship,pension
+21574,TRUE,TRUE,FALSE,0,st,Labour Welfare,pension
+11718,TRUE,FALSE,FALSE,0,vjnt,Labour Welfare,student
+79148,FALSE,TRUE,FALSE,1,sc,Farmer Assistance,student
+61094,FALSE,FALSE,FALSE,1,obc,Labour Welfare,worker
+84702,FALSE,TRUE,FALSE,1,general,Farmer Assistance,pension
+28526,FALSE,TRUE,TRUE,1,obc,Labour Welfare,student
+63368,TRUE,TRUE,FALSE,0,st,Pre Matric Scholarship,student
+72791,TRUE,FALSE,FALSE,1,general,Pension Scheme,student
+70935,TRUE,TRUE,FALSE,0,obc,Pension Scheme,pension
+30130,TRUE,FALSE,TRUE,0,sc,Pension Scheme,worker
+14154,TRUE,TRUE,FALSE,0,vjnt,Labour Welfare,farmer
+98373,TRUE,TRUE,TRUE,1,obc,Pre Matric Scholarship,student
+20648,FALSE,TRUE,TRUE,1,sc,Post Matric Scholarship,student
+18620,FALSE,FALSE,FALSE,0,vjnt,Post Matric Scholarship,farmer
+57476,FALSE,TRUE,FALSE,0,st,Pension Scheme,pension
+90842,TRUE,TRUE,TRUE,0,obc,Pre Matric Scholarship,student
+93414,TRUE,TRUE,FALSE,1,st,Pre Matric Scholarship,student
+29855,FALSE,TRUE,TRUE,0,st,Post Matric Scholarship,farmer
+80473,TRUE,FALSE,FALSE,0,vjnt,Labour Welfare,student
+56631,FALSE,FALSE,TRUE,0,sc,Labour Welfare,pension
+89312,TRUE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,student
+29881,TRUE,FALSE,TRUE,1,general,Labour Welfare,pension
+30886,TRUE,FALSE,TRUE,0,st,Pension Scheme,student
+73893,FALSE,TRUE,TRUE,0,st,Pension Scheme,pension
+52277,FALSE,FALSE,FALSE,0,general,Labour Welfare,student
+34990,TRUE,FALSE,TRUE,0,general,Post Matric Scholarship,student
+16226,FALSE,FALSE,FALSE,0,st,Farmer Assistance,pension
+85262,TRUE,FALSE,TRUE,1,vjnt,Farmer Assistance,pension
+81327,TRUE,FALSE,TRUE,1,obc,Farmer Assistance,student
+54410,FALSE,FALSE,FALSE,0,st,Farmer Assistance,farmer
+87112,FALSE,TRUE,FALSE,1,general,Pension Scheme,pension
+74740,TRUE,FALSE,TRUE,1,sc,Labour Welfare,worker
+59537,FALSE,FALSE,FALSE,1,obc,Pension Scheme,student
+98955,FALSE,FALSE,FALSE,0,vjnt,Post Matric Scholarship,student
+30473,TRUE,TRUE,TRUE,0,vjnt,Pre Matric Scholarship,student
+98292,TRUE,FALSE,FALSE,1,obc,Post Matric Scholarship,worker
+98155,TRUE,FALSE,FALSE,1,obc,Pension Scheme,student
+17057,TRUE,TRUE,FALSE,0,st,Pre Matric Scholarship,farmer
+29044,TRUE,TRUE,FALSE,1,vjnt,Post Matric Scholarship,farmer
+28152,TRUE,FALSE,FALSE,0,st,Farmer Assistance,farmer
+71078,TRUE,FALSE,FALSE,1,vjnt,Pension Scheme,student
+39095,TRUE,TRUE,FALSE,1,st,Pension Scheme,pension
+31159,FALSE,FALSE,TRUE,0,obc,Farmer Assistance,worker
+39633,FALSE,FALSE,FALSE,1,vjnt,Pre Matric Scholarship,farmer
+15385,TRUE,TRUE,TRUE,0,st,Post Matric Scholarship,student
+56968,FALSE,FALSE,TRUE,1,st,Pension Scheme,student
+26365,TRUE,FALSE,TRUE,0,sc,Pre Matric Scholarship,farmer
+66386,FALSE,FALSE,FALSE,1,sc,Post Matric Scholarship,student
+62869,TRUE,FALSE,FALSE,1,general,Post Matric Scholarship,worker
+48893,TRUE,FALSE,FALSE,0,obc,Farmer Assistance,farmer
+65597,FALSE,TRUE,FALSE,1,st,Farmer Assistance,farmer
+33235,FALSE,TRUE,TRUE,1,obc,Pension Scheme,worker
+40535,TRUE,FALSE,TRUE,1,general,Pre Matric Scholarship,farmer
+89749,FALSE,TRUE,TRUE,0,st,Pension Scheme,pension
+14299,FALSE,FALSE,TRUE,1,vjnt,Labour Welfare,student
+14189,TRUE,TRUE,TRUE,0,general,Farmer Assistance,farmer
+36097,FALSE,FALSE,TRUE,0,vjnt,Pension Scheme,pension
+72988,FALSE,FALSE,TRUE,0,vjnt,Pension Scheme,student
+32429,FALSE,TRUE,FALSE,0,vjnt,Farmer Assistance,farmer
+17644,TRUE,FALSE,TRUE,0,st,Post Matric Scholarship,pension
+7552,TRUE,FALSE,TRUE,0,st,Farmer Assistance,pension
+55664,FALSE,TRUE,TRUE,0,obc,Labour Welfare,worker
+47109,TRUE,TRUE,FALSE,1,general,Farmer Assistance,pension
+54380,TRUE,FALSE,FALSE,0,vjnt,Labour Welfare,pension
+43435,TRUE,FALSE,TRUE,0,obc,Pension Scheme,student
+21426,TRUE,FALSE,TRUE,0,general,Pre Matric Scholarship,student
+87536,FALSE,TRUE,FALSE,0,st,Pension Scheme,farmer
+45611,TRUE,TRUE,FALSE,0,vjnt,Pre Matric Scholarship,farmer
+6922,TRUE,TRUE,FALSE,1,vjnt,Farmer Assistance,worker
+95613,TRUE,TRUE,FALSE,1,sc,Pre Matric Scholarship,pension
+45273,FALSE,FALSE,FALSE,1,vjnt,Pension Scheme,farmer
+67910,FALSE,FALSE,TRUE,1,sc,Post Matric Scholarship,pension
+95173,TRUE,FALSE,TRUE,0,obc,Post Matric Scholarship,pension
+64189,FALSE,FALSE,FALSE,1,st,Farmer Assistance,student
+75775,FALSE,FALSE,FALSE,0,vjnt,Pension Scheme,pension
+77627,TRUE,TRUE,TRUE,1,obc,Pre Matric Scholarship,worker
+64154,FALSE,TRUE,FALSE,0,general,Pre Matric Scholarship,farmer
+60774,FALSE,TRUE,TRUE,0,general,Labour Welfare,pension
+23145,FALSE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,student
+13257,FALSE,FALSE,TRUE,0,st,Post Matric Scholarship,farmer
+87357,TRUE,FALSE,TRUE,0,general,Pre Matric Scholarship,worker
+23056,TRUE,TRUE,FALSE,1,sc,Post Matric Scholarship,worker
+28168,TRUE,TRUE,TRUE,1,sc,Pension Scheme,worker
+74422,TRUE,FALSE,FALSE,1,st,Pension Scheme,worker
+75106,FALSE,TRUE,TRUE,0,sc,Pre Matric Scholarship,farmer
+47780,TRUE,FALSE,TRUE,1,general,Pension Scheme,farmer
+48245,TRUE,FALSE,FALSE,1,st,Farmer Assistance,farmer
+99528,TRUE,TRUE,FALSE,0,vjnt,Pre Matric Scholarship,pension
+75494,FALSE,TRUE,TRUE,1,sc,Post Matric Scholarship,farmer
+41530,FALSE,FALSE,TRUE,1,general,Labour Welfare,student
+73809,TRUE,TRUE,FALSE,0,obc,Pension Scheme,pension
+38991,FALSE,FALSE,FALSE,0,general,Farmer Assistance,worker
+61819,TRUE,TRUE,TRUE,0,st,Pension Scheme,farmer
+71240,TRUE,FALSE,FALSE,1,sc,Farmer Assistance,farmer
+93645,TRUE,TRUE,TRUE,1,st,Labour Welfare,pension
+95549,FALSE,TRUE,FALSE,1,st,Pension Scheme,worker
+72234,TRUE,FALSE,FALSE,1,obc,Post Matric Scholarship,worker
+21696,TRUE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,student
+80063,FALSE,FALSE,TRUE,1,general,Post Matric Scholarship,farmer
+18430,TRUE,TRUE,TRUE,0,st,Pre Matric Scholarship,worker
+19186,TRUE,TRUE,FALSE,0,st,Post Matric Scholarship,farmer
+5749,FALSE,FALSE,FALSE,1,sc,Labour Welfare,worker
+25850,FALSE,FALSE,TRUE,1,sc,Post Matric Scholarship,farmer
+34801,TRUE,TRUE,FALSE,1,sc,Post Matric Scholarship,worker
+49524,TRUE,FALSE,FALSE,0,st,Labour Welfare,worker
+72875,TRUE,FALSE,FALSE,0,general,Pension Scheme,pension
+75322,TRUE,FALSE,TRUE,0,sc,Farmer Assistance,pension
+98564,TRUE,TRUE,TRUE,0,vjnt,Labour Welfare,farmer
+14792,FALSE,FALSE,FALSE,0,sc,Pre Matric Scholarship,worker
+92291,TRUE,FALSE,FALSE,0,general,Pre Matric Scholarship,pension
+11738,TRUE,TRUE,FALSE,0,st,Labour Welfare,worker
+86879,FALSE,FALSE,FALSE,0,st,Pension Scheme,pension
+54564,TRUE,FALSE,FALSE,1,obc,Pre Matric Scholarship,student
+28782,TRUE,TRUE,FALSE,1,obc,Farmer Assistance,worker
+11472,FALSE,FALSE,TRUE,1,general,Post Matric Scholarship,worker
+48696,TRUE,TRUE,TRUE,0,sc,Pension Scheme,worker
+15639,TRUE,TRUE,FALSE,0,sc,Pension Scheme,pension
+68446,FALSE,TRUE,TRUE,0,sc,Pension Scheme,student
+19009,TRUE,FALSE,TRUE,0,general,Farmer Assistance,student
+97602,TRUE,TRUE,FALSE,1,vjnt,Pre Matric Scholarship,student
+24802,FALSE,TRUE,TRUE,0,obc,Pre Matric Scholarship,student
+48924,TRUE,FALSE,FALSE,1,sc,Farmer Assistance,farmer
+6487,FALSE,FALSE,TRUE,1,general,Pre Matric Scholarship,pension
+7309,TRUE,FALSE,FALSE,1,st,Farmer Assistance,farmer
+20991,TRUE,TRUE,TRUE,0,st,Labour Welfare,worker
+65523,FALSE,FALSE,FALSE,1,general,Post Matric Scholarship,worker
+77276,FALSE,TRUE,TRUE,0,vjnt,Farmer Assistance,student
+26416,TRUE,TRUE,TRUE,0,sc,Pension Scheme,student
+47238,TRUE,TRUE,TRUE,0,obc,Labour Welfare,worker
+82545,TRUE,TRUE,FALSE,0,obc,Post Matric Scholarship,worker
+28668,FALSE,FALSE,TRUE,1,general,Post Matric Scholarship,worker
+43240,FALSE,TRUE,TRUE,0,sc,Pension Scheme,worker
+62346,FALSE,TRUE,TRUE,0,st,Pre Matric Scholarship,farmer
+72849,FALSE,FALSE,TRUE,0,st,Farmer Assistance,student
+20021,TRUE,TRUE,TRUE,1,obc,Labour Welfare,pension
+76750,TRUE,TRUE,TRUE,0,sc,Farmer Assistance,student
+51502,TRUE,FALSE,FALSE,0,sc,Labour Welfare,student
+65696,TRUE,TRUE,TRUE,0,sc,Farmer Assistance,student
+65593,TRUE,FALSE,TRUE,1,st,Labour Welfare,worker
+76360,TRUE,FALSE,TRUE,0,obc,Farmer Assistance,student
+48847,TRUE,TRUE,TRUE,1,st,Pre Matric Scholarship,worker
+90521,FALSE,FALSE,FALSE,0,st,Farmer Assistance,farmer
+46987,FALSE,TRUE,TRUE,1,general,Pension Scheme,pension
+56476,FALSE,FALSE,TRUE,0,vjnt,Pre Matric Scholarship,worker
+69528,FALSE,FALSE,TRUE,1,general,Labour Welfare,farmer
+80469,TRUE,TRUE,TRUE,1,st,Post Matric Scholarship,farmer
+56344,FALSE,FALSE,TRUE,1,general,Pre Matric Scholarship,farmer
+95588,TRUE,FALSE,TRUE,1,general,Pre Matric Scholarship,pension
+6545,FALSE,TRUE,TRUE,0,st,Post Matric Scholarship,student
+16529,TRUE,TRUE,FALSE,1,vjnt,Post Matric Scholarship,worker
+88095,TRUE,FALSE,TRUE,0,vjnt,Pre Matric Scholarship,worker
+36432,TRUE,FALSE,FALSE,0,st,Post Matric Scholarship,pension
+61838,FALSE,FALSE,TRUE,0,sc,Farmer Assistance,student
+85959,TRUE,TRUE,FALSE,1,general,Farmer Assistance,student
+44455,FALSE,FALSE,FALSE,1,st,Pre Matric Scholarship,farmer
+95258,TRUE,TRUE,TRUE,1,obc,Farmer Assistance,farmer
+6415,FALSE,FALSE,TRUE,0,general,Pension Scheme,farmer
+55593,FALSE,FALSE,FALSE,1,sc,Pre Matric Scholarship,student
+97133,TRUE,FALSE,TRUE,1,vjnt,Farmer Assistance,farmer
+34677,TRUE,TRUE,FALSE,1,vjnt,Post Matric Scholarship,worker
+23596,FALSE,TRUE,TRUE,0,sc,Pre Matric Scholarship,farmer
+68406,TRUE,FALSE,TRUE,0,general,Labour Welfare,student
+65124,TRUE,FALSE,FALSE,0,general,Post Matric Scholarship,worker
+91176,FALSE,FALSE,TRUE,0,st,Pre Matric Scholarship,farmer
+35829,TRUE,TRUE,FALSE,0,st,Post Matric Scholarship,student
+35389,FALSE,TRUE,TRUE,1,vjnt,Labour Welfare,pension
+84316,FALSE,TRUE,TRUE,0,vjnt,Labour Welfare,pension
+78257,TRUE,FALSE,TRUE,1,general,Pension Scheme,student
+26187,FALSE,TRUE,FALSE,0,st,Farmer Assistance,pension
+18615,FALSE,TRUE,TRUE,0,st,Farmer Assistance,pension
+88247,TRUE,FALSE,TRUE,1,st,Farmer Assistance,student
+77513,TRUE,TRUE,TRUE,1,general,Post Matric Scholarship,farmer
+54027,FALSE,TRUE,FALSE,0,vjnt,Farmer Assistance,farmer
+50291,FALSE,TRUE,FALSE,1,st,Pension Scheme,student
+93108,FALSE,FALSE,FALSE,1,vjnt,Pre Matric Scholarship,student
+22312,TRUE,FALSE,TRUE,1,obc,Pension Scheme,worker
+13591,TRUE,FALSE,FALSE,0,st,Farmer Assistance,worker
+17200,TRUE,TRUE,TRUE,1,vjnt,Pre Matric Scholarship,student
+28618,FALSE,TRUE,FALSE,0,vjnt,Pension Scheme,student
+75811,TRUE,FALSE,FALSE,0,obc,Pension Scheme,student
+83992,TRUE,TRUE,TRUE,0,general,Pre Matric Scholarship,worker
+60191,FALSE,FALSE,TRUE,1,general,Post Matric Scholarship,pension
+89577,FALSE,TRUE,FALSE,0,vjnt,Post Matric Scholarship,student
+64361,FALSE,FALSE,TRUE,0,st,Labour Welfare,farmer
+91774,TRUE,TRUE,FALSE,0,general,Pre Matric Scholarship,worker
+23626,FALSE,FALSE,TRUE,0,general,Labour Welfare,student
+27726,FALSE,FALSE,TRUE,0,general,Pre Matric Scholarship,pension
+62309,TRUE,TRUE,FALSE,0,obc,Pension Scheme,worker
+39112,FALSE,FALSE,TRUE,0,st,Pension Scheme,pension
+33794,FALSE,FALSE,TRUE,0,st,Post Matric Scholarship,student
+44059,TRUE,TRUE,FALSE,0,st,Pre Matric Scholarship,student
+9804,FALSE,FALSE,FALSE,1,st,Labour Welfare,worker
+80732,TRUE,TRUE,FALSE,0,obc,Post Matric Scholarship,pension
+51649,FALSE,TRUE,FALSE,1,general,Pre Matric Scholarship,farmer
+36002,FALSE,FALSE,TRUE,1,general,Pre Matric Scholarship,student
+7507,TRUE,TRUE,TRUE,0,st,Post Matric Scholarship,farmer
+17716,TRUE,FALSE,TRUE,0,obc,Farmer Assistance,pension
+48482,TRUE,FALSE,TRUE,0,general,Pension Scheme,student
+61998,TRUE,TRUE,FALSE,1,st,Farmer Assistance,farmer
+95072,TRUE,TRUE,FALSE,0,sc,Farmer Assistance,farmer
+66676,FALSE,TRUE,FALSE,0,vjnt,Post Matric Scholarship,student
+5028,TRUE,TRUE,TRUE,1,st,Pre Matric Scholarship,pension
+55095,FALSE,TRUE,FALSE,0,obc,Pre Matric Scholarship,pension
+28917,FALSE,FALSE,TRUE,1,general,Labour Welfare,worker
+77960,TRUE,FALSE,TRUE,1,vjnt,Post Matric Scholarship,pension
+21502,TRUE,TRUE,FALSE,0,st,Labour Welfare,farmer
+91841,TRUE,TRUE,FALSE,1,st,Labour Welfare,pension
+56559,TRUE,TRUE,FALSE,0,obc,Labour Welfare,worker
+9604,TRUE,TRUE,FALSE,1,sc,Pre Matric Scholarship,student
+14100,TRUE,FALSE,FALSE,1,st,Pension Scheme,farmer
+57200,FALSE,FALSE,FALSE,0,sc,Pre Matric Scholarship,student
+22841,FALSE,TRUE,TRUE,1,st,Labour Welfare,pension
+64302,FALSE,FALSE,FALSE,1,general,Farmer Assistance,farmer
+84792,TRUE,TRUE,FALSE,1,general,Labour Welfare,farmer
+18924,FALSE,FALSE,FALSE,0,sc,Pre Matric Scholarship,pension
+84593,FALSE,TRUE,FALSE,0,general,Post Matric Scholarship,student
+38043,FALSE,FALSE,FALSE,1,vjnt,Farmer Assistance,student
+25984,FALSE,TRUE,TRUE,1,st,Labour Welfare,pension
+55342,TRUE,FALSE,FALSE,0,obc,Pension Scheme,pension
+78102,FALSE,FALSE,TRUE,0,general,Labour Welfare,worker
+39314,FALSE,FALSE,TRUE,1,obc,Labour Welfare,worker
+57271,FALSE,FALSE,TRUE,0,vjnt,Pre Matric Scholarship,pension
+40599,TRUE,FALSE,FALSE,0,obc,Farmer Assistance,pension
+61049,TRUE,FALSE,FALSE,0,st,Farmer Assistance,student
+75540,TRUE,TRUE,TRUE,1,st,Pension Scheme,student
+80681,FALSE,FALSE,TRUE,1,general,Farmer Assistance,worker
+67299,TRUE,FALSE,FALSE,1,vjnt,Farmer Assistance,pension
+24492,TRUE,FALSE,TRUE,0,sc,Labour Welfare,pension
+56066,TRUE,TRUE,TRUE,0,st,Farmer Assistance,farmer
+20899,FALSE,FALSE,FALSE,0,st,Farmer Assistance,student
+57028,TRUE,TRUE,TRUE,0,st,Farmer Assistance,farmer
+57746,TRUE,TRUE,FALSE,1,st,Labour Welfare,farmer
+34567,FALSE,FALSE,TRUE,0,st,Farmer Assistance,worker
+56302,FALSE,TRUE,FALSE,1,vjnt,Farmer Assistance,worker
+92723,TRUE,FALSE,FALSE,1,st,Labour Welfare,pension
+58184,TRUE,TRUE,FALSE,0,st,Farmer Assistance,farmer
+77913,TRUE,FALSE,FALSE,1,obc,Labour Welfare,farmer
+17847,FALSE,TRUE,FALSE,1,obc,Farmer Assistance,pension
+16592,FALSE,TRUE,FALSE,1,st,Farmer Assistance,student
+56851,FALSE,TRUE,FALSE,0,general,Farmer Assistance,farmer
+29872,TRUE,FALSE,FALSE,0,sc,Pre Matric Scholarship,worker
+19854,FALSE,FALSE,TRUE,1,st,Pre Matric Scholarship,pension
+15710,FALSE,FALSE,TRUE,1,general,Pension Scheme,farmer
+9611,FALSE,FALSE,FALSE,0,sc,Labour Welfare,student
+89721,TRUE,FALSE,TRUE,0,st,Pre Matric Scholarship,worker
+38077,FALSE,FALSE,TRUE,1,sc,Farmer Assistance,worker
+5710,FALSE,FALSE,TRUE,1,obc,Pension Scheme,student
+79221,FALSE,FALSE,TRUE,0,sc,Farmer Assistance,pension
+74891,FALSE,TRUE,TRUE,1,sc,Post Matric Scholarship,farmer
+96991,TRUE,FALSE,TRUE,1,general,Pre Matric Scholarship,farmer
+47859,TRUE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,pension
+73877,TRUE,FALSE,FALSE,1,sc,Pension Scheme,worker
+50736,TRUE,TRUE,FALSE,0,vjnt,Pre Matric Scholarship,farmer
+66694,FALSE,TRUE,FALSE,1,general,Pre Matric Scholarship,pension
+65820,FALSE,FALSE,FALSE,0,sc,Pension Scheme,farmer
+16179,TRUE,FALSE,TRUE,1,st,Pension Scheme,farmer
+72794,FALSE,FALSE,FALSE,1,sc,Labour Welfare,student
+21647,TRUE,FALSE,FALSE,1,st,Pre Matric Scholarship,farmer
+20836,FALSE,TRUE,FALSE,1,obc,Farmer Assistance,student
+80856,FALSE,TRUE,FALSE,0,vjnt,Labour Welfare,pension
+31075,FALSE,FALSE,TRUE,0,obc,Labour Welfare,farmer
+5948,FALSE,TRUE,FALSE,0,st,Pre Matric Scholarship,worker
+45521,TRUE,FALSE,FALSE,0,st,Farmer Assistance,worker
+70809,FALSE,TRUE,FALSE,1,general,Post Matric Scholarship,student
+39275,FALSE,TRUE,FALSE,0,obc,Post Matric Scholarship,worker
+6705,FALSE,FALSE,FALSE,0,sc,Pre Matric Scholarship,worker
+95235,TRUE,FALSE,TRUE,0,general,Farmer Assistance,pension
+49190,TRUE,TRUE,TRUE,0,vjnt,Labour Welfare,pension
+75383,FALSE,FALSE,TRUE,1,sc,Pension Scheme,worker
+42117,FALSE,TRUE,TRUE,0,vjnt,Post Matric Scholarship,farmer
+40801,FALSE,TRUE,FALSE,1,vjnt,Pre Matric Scholarship,worker
+26479,FALSE,FALSE,TRUE,1,general,Farmer Assistance,farmer
+78109,TRUE,FALSE,FALSE,1,general,Pension Scheme,pension
+90590,FALSE,FALSE,FALSE,0,st,Pre Matric Scholarship,farmer
+82701,FALSE,FALSE,TRUE,1,obc,Post Matric Scholarship,farmer
+28087,FALSE,TRUE,FALSE,1,general,Farmer Assistance,worker
+22141,TRUE,TRUE,FALSE,1,sc,Pension Scheme,student
+71676,FALSE,FALSE,FALSE,0,st,Post Matric Scholarship,pension
+27275,FALSE,FALSE,TRUE,1,general,Farmer Assistance,pension
+59777,FALSE,TRUE,TRUE,1,obc,Farmer Assistance,pension
+38564,FALSE,FALSE,FALSE,0,st,Farmer Assistance,farmer
+27473,FALSE,TRUE,FALSE,1,general,Pre Matric Scholarship,farmer
+67101,FALSE,FALSE,FALSE,1,obc,Pre Matric Scholarship,student
+43702,TRUE,FALSE,TRUE,1,sc,Pre Matric Scholarship,student
+29770,TRUE,FALSE,FALSE,1,sc,Pension Scheme,student
+68461,TRUE,FALSE,FALSE,0,sc,Pre Matric Scholarship,worker
+69304,FALSE,TRUE,FALSE,0,obc,Pre Matric Scholarship,student
+50398,FALSE,FALSE,TRUE,0,st,Farmer Assistance,farmer
+93355,TRUE,TRUE,TRUE,1,general,Pre Matric Scholarship,farmer
+46872,FALSE,TRUE,TRUE,0,vjnt,Post Matric Scholarship,student
+79660,TRUE,FALSE,FALSE,1,sc,Pension Scheme,student
+56782,TRUE,FALSE,FALSE,0,st,Farmer Assistance,worker
+45734,FALSE,FALSE,FALSE,1,sc,Pre Matric Scholarship,student
+74812,TRUE,FALSE,TRUE,0,obc,Post Matric Scholarship,farmer
+32915,FALSE,FALSE,FALSE,0,st,Labour Welfare,student
+31384,FALSE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,pension
+87994,FALSE,TRUE,TRUE,1,sc,Pre Matric Scholarship,worker
+30379,FALSE,TRUE,TRUE,0,obc,Pre Matric Scholarship,worker
+79426,TRUE,TRUE,TRUE,0,obc,Pre Matric Scholarship,farmer
+7054,FALSE,FALSE,TRUE,1,vjnt,Pension Scheme,pension
+69362,TRUE,FALSE,FALSE,1,st,Farmer Assistance,pension
+71165,TRUE,FALSE,TRUE,0,obc,Pre Matric Scholarship,worker
+73605,TRUE,TRUE,FALSE,0,general,Farmer Assistance,worker
+65592,TRUE,TRUE,FALSE,0,general,Labour Welfare,worker
+24271,FALSE,FALSE,TRUE,1,sc,Pre Matric Scholarship,student
+45599,FALSE,TRUE,TRUE,1,general,Post Matric Scholarship,worker
+30420,TRUE,FALSE,TRUE,0,general,Farmer Assistance,pension
+51092,FALSE,FALSE,FALSE,1,vjnt,Labour Welfare,student
+49041,TRUE,FALSE,TRUE,0,vjnt,Farmer Assistance,worker
+92981,TRUE,FALSE,FALSE,1,st,Pension Scheme,farmer
+11589,FALSE,TRUE,TRUE,1,obc,Farmer Assistance,pension
+75411,FALSE,TRUE,TRUE,1,sc,Pre Matric Scholarship,pension
+6344,TRUE,FALSE,TRUE,1,obc,Farmer Assistance,worker
+15630,FALSE,TRUE,TRUE,0,obc,Farmer Assistance,worker
+75308,FALSE,TRUE,FALSE,0,sc,Labour Welfare,pension
+97584,TRUE,FALSE,TRUE,0,sc,Farmer Assistance,worker
+45668,TRUE,TRUE,FALSE,0,sc,Farmer Assistance,worker
+67708,TRUE,FALSE,FALSE,1,sc,Pension Scheme,farmer
+98584,TRUE,FALSE,FALSE,1,vjnt,Pension Scheme,student
+88303,TRUE,FALSE,FALSE,0,vjnt,Post Matric Scholarship,pension
+61316,FALSE,FALSE,TRUE,1,sc,Post Matric Scholarship,pension
+45025,TRUE,TRUE,FALSE,1,st,Pre Matric Scholarship,farmer
+57050,FALSE,TRUE,FALSE,1,obc,Farmer Assistance,worker
+17428,TRUE,TRUE,FALSE,1,general,Pre Matric Scholarship,student
+42200,FALSE,TRUE,FALSE,1,obc,Post Matric Scholarship,farmer
+83792,FALSE,TRUE,TRUE,1,general,Farmer Assistance,farmer
+20448,FALSE,TRUE,FALSE,0,general,Labour Welfare,worker
+29476,TRUE,FALSE,TRUE,1,st,Farmer Assistance,farmer
+34227,TRUE,FALSE,TRUE,1,vjnt,Labour Welfare,student
+91223,TRUE,FALSE,TRUE,1,general,Labour Welfare,farmer
+59114,FALSE,TRUE,FALSE,0,vjnt,Labour Welfare,worker
+45504,TRUE,TRUE,TRUE,1,obc,Post Matric Scholarship,student
+21528,TRUE,TRUE,TRUE,1,vjnt,Pre Matric Scholarship,worker
+98747,TRUE,FALSE,FALSE,0,st,Pre Matric Scholarship,pension
+17099,TRUE,FALSE,TRUE,0,sc,Pension Scheme,worker
+27933,TRUE,TRUE,FALSE,0,sc,Labour Welfare,farmer
+71670,TRUE,FALSE,FALSE,0,general,Labour Welfare,student
+51693,TRUE,TRUE,FALSE,1,vjnt,Pre Matric Scholarship,worker
+42697,FALSE,TRUE,FALSE,0,st,Farmer Assistance,student
+85038,TRUE,FALSE,TRUE,1,st,Farmer Assistance,pension
+41514,FALSE,TRUE,FALSE,1,obc,Farmer Assistance,student
+40300,TRUE,FALSE,TRUE,1,st,Pension Scheme,farmer
+53663,FALSE,TRUE,FALSE,1,vjnt,Labour Welfare,student
+11915,TRUE,FALSE,TRUE,0,general,Labour Welfare,farmer
+81544,TRUE,TRUE,FALSE,0,general,Post Matric Scholarship,farmer
+55441,FALSE,TRUE,FALSE,0,sc,Pre Matric Scholarship,farmer
+59073,FALSE,FALSE,TRUE,0,vjnt,Farmer Assistance,worker
+84809,TRUE,FALSE,FALSE,1,obc,Pension Scheme,pension
+79071,FALSE,FALSE,TRUE,1,sc,Post Matric Scholarship,farmer
+89408,TRUE,TRUE,TRUE,1,st,Pre Matric Scholarship,farmer
+30339,FALSE,TRUE,TRUE,0,general,Post Matric Scholarship,student
+56038,TRUE,TRUE,FALSE,0,st,Labour Welfare,pension
+34461,TRUE,TRUE,TRUE,0,obc,Farmer Assistance,farmer
+35942,FALSE,TRUE,TRUE,1,st,Post Matric Scholarship,student
+48664,FALSE,TRUE,TRUE,1,obc,Pre Matric Scholarship,student
+37198,FALSE,TRUE,FALSE,1,vjnt,Post Matric Scholarship,farmer
+87463,FALSE,FALSE,TRUE,1,obc,Post Matric Scholarship,worker
+88622,FALSE,FALSE,FALSE,0,general,Farmer Assistance,student
+79287,TRUE,FALSE,TRUE,0,st,Pre Matric Scholarship,student
+77339,FALSE,FALSE,FALSE,0,vjnt,Post Matric Scholarship,student
+30654,TRUE,FALSE,TRUE,1,vjnt,Pension Scheme,pension
+14971,TRUE,TRUE,FALSE,0,general,Farmer Assistance,worker
+93501,TRUE,FALSE,TRUE,1,sc,Pre Matric Scholarship,worker
+18558,FALSE,TRUE,FALSE,0,obc,Pre Matric Scholarship,pension
+42146,FALSE,TRUE,TRUE,1,vjnt,Post Matric Scholarship,pension
+44135,TRUE,FALSE,TRUE,0,vjnt,Post Matric Scholarship,student
+61697,FALSE,TRUE,FALSE,1,st,Farmer Assistance,farmer
+41845,FALSE,TRUE,FALSE,1,obc,Pre Matric Scholarship,student
+21002,TRUE,TRUE,FALSE,0,obc,Farmer Assistance,farmer
+53780,FALSE,FALSE,TRUE,1,sc,Labour Welfare,student
+64324,FALSE,FALSE,TRUE,1,sc,Farmer Assistance,farmer
+34939,TRUE,TRUE,TRUE,0,vjnt,Pension Scheme,student
+50035,TRUE,FALSE,TRUE,0,general,Labour Welfare,pension
+49226,TRUE,TRUE,FALSE,0,vjnt,Labour Welfare,student
+82606,TRUE,FALSE,TRUE,1,general,Pre Matric Scholarship,farmer
+23327,TRUE,FALSE,TRUE,1,general,Pre Matric Scholarship,farmer
+64688,TRUE,TRUE,TRUE,0,sc,Post Matric Scholarship,worker
+47948,TRUE,FALSE,FALSE,0,st,Farmer Assistance,student
+58298,TRUE,TRUE,TRUE,1,st,Farmer Assistance,student
+9996,FALSE,FALSE,FALSE,0,vjnt,Farmer Assistance,farmer
+78544,FALSE,FALSE,TRUE,0,general,Post Matric Scholarship,farmer
+16530,TRUE,TRUE,TRUE,0,st,Labour Welfare,worker
+43365,FALSE,FALSE,FALSE,1,general,Pre Matric Scholarship,worker
+69099,TRUE,TRUE,FALSE,1,vjnt,Pension Scheme,student
+98401,TRUE,FALSE,FALSE,1,obc,Farmer Assistance,farmer
+29598,FALSE,FALSE,FALSE,1,st,Farmer Assistance,pension
+17596,TRUE,TRUE,FALSE,0,vjnt,Pension Scheme,farmer
+8844,TRUE,FALSE,FALSE,1,sc,Farmer Assistance,pension
+31111,FALSE,FALSE,TRUE,1,sc,Pension Scheme,pension
+66778,TRUE,FALSE,TRUE,1,sc,Pension Scheme,farmer
+49260,TRUE,TRUE,TRUE,1,vjnt,Post Matric Scholarship,farmer
+21539,FALSE,FALSE,FALSE,1,general,Farmer Assistance,worker
+50769,TRUE,TRUE,TRUE,0,general,Post Matric Scholarship,student
+98560,TRUE,TRUE,TRUE,1,general,Post Matric Scholarship,farmer
+59185,FALSE,FALSE,FALSE,0,obc,Labour Welfare,student
+41526,FALSE,TRUE,FALSE,1,vjnt,Farmer Assistance,worker
+92101,TRUE,FALSE,TRUE,1,obc,Labour Welfare,student
+70361,TRUE,TRUE,TRUE,0,vjnt,Post Matric Scholarship,student
+18031,FALSE,TRUE,TRUE,0,obc,Pension Scheme,farmer
+98910,TRUE,FALSE,FALSE,1,sc,Pension Scheme,farmer
+94927,TRUE,FALSE,TRUE,1,general,Pre Matric Scholarship,pension
+63210,TRUE,TRUE,FALSE,1,vjnt,Farmer Assistance,worker
+83295,FALSE,TRUE,TRUE,0,sc,Post Matric Scholarship,student
+13671,FALSE,TRUE,TRUE,0,general,Pension Scheme,worker
+41522,TRUE,FALSE,TRUE,0,obc,Pension Scheme,farmer
+58692,TRUE,FALSE,TRUE,0,obc,Pension Scheme,worker
+74040,FALSE,TRUE,TRUE,0,st,Pre Matric Scholarship,pension
+78831,TRUE,FALSE,FALSE,0,general,Pre Matric Scholarship,student
+96787,FALSE,TRUE,TRUE,1,sc,Post Matric Scholarship,student
+50987,TRUE,TRUE,TRUE,0,vjnt,Farmer Assistance,worker
+36398,TRUE,TRUE,TRUE,0,st,Post Matric Scholarship,farmer
+27751,FALSE,TRUE,FALSE,1,obc,Pension Scheme,farmer
+89989,TRUE,FALSE,FALSE,1,st,Pre Matric Scholarship,farmer
+33315,FALSE,FALSE,TRUE,0,sc,Labour Welfare,student
+31143,TRUE,FALSE,FALSE,1,sc,Pre Matric Scholarship,student
+82178,FALSE,TRUE,FALSE,0,general,Farmer Assistance,worker
+46679,TRUE,TRUE,TRUE,1,obc,Pre Matric Scholarship,farmer
+89219,FALSE,TRUE,FALSE,0,obc,Pre Matric Scholarship,pension
+53039,FALSE,FALSE,FALSE,0,st,Post Matric Scholarship,pension
+81662,TRUE,FALSE,TRUE,1,st,Pre Matric Scholarship,worker
+26415,FALSE,TRUE,TRUE,0,st,Labour Welfare,student
+58893,TRUE,TRUE,TRUE,1,obc,Pre Matric Scholarship,worker
+97768,TRUE,FALSE,TRUE,0,obc,Labour Welfare,pension
+68092,FALSE,FALSE,FALSE,1,sc,Labour Welfare,worker
+11094,FALSE,FALSE,FALSE,0,general,Pre Matric Scholarship,farmer
+14146,FALSE,TRUE,TRUE,1,general,Post Matric Scholarship,student
+79826,FALSE,FALSE,FALSE,1,vjnt,Labour Welfare,farmer
+81929,TRUE,TRUE,FALSE,1,obc,Labour Welfare,farmer
+60134,FALSE,FALSE,TRUE,0,general,Pre Matric Scholarship,pension
+51036,FALSE,FALSE,FALSE,1,obc,Farmer Assistance,worker
+61295,FALSE,TRUE,FALSE,0,vjnt,Farmer Assistance,farmer
+97999,TRUE,FALSE,TRUE,1,obc,Labour Welfare,student
+13923,TRUE,TRUE,TRUE,1,sc,Labour Welfare,student
+91612,FALSE,TRUE,TRUE,0,vjnt,Pension Scheme,worker
+65907,TRUE,FALSE,TRUE,0,sc,Farmer Assistance,worker
+46034,FALSE,TRUE,TRUE,1,general,Labour Welfare,student
+5449,TRUE,FALSE,FALSE,0,general,Farmer Assistance,pension
+15792,TRUE,FALSE,FALSE,0,obc,Labour Welfare,pension
+83007,TRUE,TRUE,FALSE,0,st,Farmer Assistance,student
+36652,TRUE,TRUE,FALSE,1,vjnt,Pension Scheme,worker
+72594,FALSE,TRUE,FALSE,1,vjnt,Farmer Assistance,worker
+24742,FALSE,TRUE,TRUE,1,general,Pension Scheme,farmer
+88022,TRUE,FALSE,TRUE,0,st,Pre Matric Scholarship,student
+89821,TRUE,TRUE,FALSE,1,sc,Farmer Assistance,student
+67948,FALSE,TRUE,FALSE,0,vjnt,Post Matric Scholarship,student
+59139,FALSE,FALSE,TRUE,1,obc,Farmer Assistance,student
+59482,FALSE,FALSE,FALSE,0,vjnt,Pension Scheme,pension
+19678,FALSE,TRUE,TRUE,0,sc,Farmer Assistance,farmer
+42435,TRUE,TRUE,TRUE,0,vjnt,Post Matric Scholarship,pension
+36853,FALSE,FALSE,TRUE,0,obc,Post Matric Scholarship,pension
+87322,TRUE,TRUE,FALSE,0,general,Pre Matric Scholarship,student
+87136,TRUE,FALSE,FALSE,1,obc,Pre Matric Scholarship,farmer
+75322,TRUE,FALSE,FALSE,0,obc,Labour Welfare,pension
+46786,FALSE,TRUE,FALSE,1,obc,Pension Scheme,student
+61830,TRUE,FALSE,TRUE,0,st,Pre Matric Scholarship,pension
+29080,TRUE,TRUE,TRUE,1,obc,Labour Welfare,pension
+85791,FALSE,TRUE,TRUE,0,st,Pre Matric Scholarship,worker
+29448,TRUE,FALSE,TRUE,1,vjnt,Post Matric Scholarship,student
+71635,FALSE,TRUE,FALSE,0,st,Labour Welfare,farmer
+78009,FALSE,TRUE,TRUE,0,vjnt,Pre Matric Scholarship,worker
+27271,TRUE,FALSE,TRUE,0,st,Pension Scheme,worker
+6411,TRUE,FALSE,FALSE,1,st,Pre Matric Scholarship,pension
+70423,TRUE,FALSE,TRUE,0,obc,Pre Matric Scholarship,student
+21081,TRUE,FALSE,TRUE,0,obc,Pension Scheme,student
+88001,FALSE,TRUE,TRUE,1,sc,Post Matric Scholarship,farmer
+61453,TRUE,FALSE,TRUE,0,general,Pension Scheme,pension
+45348,FALSE,FALSE,TRUE,0,vjnt,Pension Scheme,student
+74856,FALSE,FALSE,TRUE,0,st,Pre Matric Scholarship,farmer
+85048,TRUE,TRUE,FALSE,1,obc,Farmer Assistance,farmer
+16092,FALSE,FALSE,FALSE,0,vjnt,Pre Matric Scholarship,pension
+90846,TRUE,FALSE,FALSE,1,general,Pension Scheme,pension
+40702,FALSE,TRUE,FALSE,0,vjnt,Farmer Assistance,worker
+75870,FALSE,FALSE,FALSE,0,obc,Pre Matric Scholarship,farmer
+5815,TRUE,FALSE,FALSE,0,general,Farmer Assistance,pension
+71568,TRUE,FALSE,FALSE,1,obc,Labour Welfare,student
+85447,FALSE,FALSE,FALSE,1,vjnt,Pre Matric Scholarship,pension
+55011,TRUE,FALSE,FALSE,1,st,Pre Matric Scholarship,pension
+9066,TRUE,TRUE,TRUE,1,general,Farmer Assistance,farmer
+91614,FALSE,FALSE,FALSE,1,obc,Pension Scheme,student
+39914,TRUE,TRUE,TRUE,0,st,Labour Welfare,student
+64790,FALSE,TRUE,FALSE,1,sc,Pension Scheme,student
+29545,FALSE,FALSE,TRUE,1,sc,Pension Scheme,student
+55444,TRUE,TRUE,FALSE,1,general,Labour Welfare,farmer
+27430,TRUE,FALSE,FALSE,0,obc,Pension Scheme,student
+96160,FALSE,FALSE,TRUE,0,obc,Farmer Assistance,pension
+87565,TRUE,FALSE,TRUE,1,general,Pre Matric Scholarship,pension
+47284,FALSE,TRUE,FALSE,0,general,Pre Matric Scholarship,worker
+58763,FALSE,FALSE,TRUE,1,st,Farmer Assistance,pension
+81307,TRUE,FALSE,FALSE,0,st,Labour Welfare,student
+59407,TRUE,TRUE,FALSE,1,obc,Pension Scheme,student
+22715,FALSE,TRUE,TRUE,1,st,Labour Welfare,student
+28992,TRUE,TRUE,FALSE,0,general,Labour Welfare,worker
+46272,FALSE,FALSE,TRUE,0,sc,Pension Scheme,student
+73905,TRUE,FALSE,TRUE,1,general,Pre Matric Scholarship,student
+75631,TRUE,TRUE,FALSE,1,general,Labour Welfare,pension
+81266,TRUE,FALSE,FALSE,1,general,Pre Matric Scholarship,pension
+8879,FALSE,TRUE,FALSE,1,obc,Post Matric Scholarship,farmer
+70775,TRUE,TRUE,TRUE,0,st,Post Matric Scholarship,worker
+66518,TRUE,FALSE,FALSE,1,vjnt,Post Matric Scholarship,student
+84751,TRUE,FALSE,TRUE,0,sc,Post Matric Scholarship,student
+32067,TRUE,FALSE,TRUE,1,sc,Pre Matric Scholarship,farmer
+45578,FALSE,TRUE,FALSE,1,general,Pre Matric Scholarship,pension
+26790,FALSE,FALSE,TRUE,0,sc,Pre Matric Scholarship,worker
+18592,FALSE,FALSE,FALSE,0,general,Labour Welfare,farmer
+35418,FALSE,TRUE,TRUE,0,obc,Labour Welfare,worker
+37453,FALSE,FALSE,TRUE,0,sc,Pension Scheme,farmer
+70093,TRUE,TRUE,TRUE,1,vjnt,Pre Matric Scholarship,worker
+19525,TRUE,TRUE,FALSE,1,obc,Farmer Assistance,farmer
+83451,TRUE,FALSE,FALSE,1,st,Farmer Assistance,worker
+66650,TRUE,FALSE,TRUE,0,obc,Pre Matric Scholarship,pension
+89404,TRUE,FALSE,FALSE,1,sc,Pension Scheme,student
+40162,TRUE,FALSE,FALSE,1,st,Pension Scheme,pension
+97808,TRUE,FALSE,TRUE,0,general,Post Matric Scholarship,worker
+94239,TRUE,FALSE,TRUE,1,st,Pre Matric Scholarship,student
+39115,FALSE,FALSE,TRUE,1,sc,Pension Scheme,student
+70823,FALSE,FALSE,FALSE,0,sc,Labour Welfare,worker
+43732,FALSE,TRUE,TRUE,1,st,Pre Matric Scholarship,student
+14866,FALSE,FALSE,FALSE,1,st,Farmer Assistance,student
+92300,FALSE,TRUE,TRUE,0,obc,Post Matric Scholarship,farmer
+42412,FALSE,TRUE,TRUE,0,general,Pension Scheme,student
+78672,FALSE,FALSE,FALSE,0,st,Pension Scheme,farmer
+39813,TRUE,TRUE,TRUE,0,obc,Farmer Assistance,pension
+71219,TRUE,FALSE,FALSE,0,st,Post Matric Scholarship,pension
+15041,FALSE,TRUE,FALSE,1,st,Pre Matric Scholarship,student
+15830,TRUE,FALSE,FALSE,0,st,Post Matric Scholarship,student
+77016,TRUE,FALSE,FALSE,0,obc,Labour Welfare,pension
+68389,FALSE,FALSE,TRUE,0,st,Pension Scheme,student
+82691,FALSE,FALSE,TRUE,1,vjnt,Pre Matric Scholarship,student
+5768,TRUE,TRUE,FALSE,1,general,Farmer Assistance,student
+16839,TRUE,FALSE,FALSE,1,obc,Pre Matric Scholarship,pension
+30352,FALSE,TRUE,FALSE,1,st,Labour Welfare,farmer
+18389,FALSE,TRUE,FALSE,0,vjnt,Labour Welfare,worker
+29893,FALSE,TRUE,FALSE,1,st,Farmer Assistance,pension
+74093,FALSE,FALSE,TRUE,1,sc,Pension Scheme,pension
+58782,TRUE,TRUE,FALSE,1,general,Labour Welfare,worker
+44139,FALSE,TRUE,FALSE,0,st,Labour Welfare,student
+80610,TRUE,TRUE,FALSE,0,general,Farmer Assistance,pension
+23482,FALSE,TRUE,FALSE,1,st,Pre Matric Scholarship,farmer
+85188,FALSE,TRUE,FALSE,0,st,Pension Scheme,farmer
+16016,FALSE,TRUE,TRUE,0,obc,Labour Welfare,worker
+16688,TRUE,FALSE,TRUE,1,sc,Labour Welfare,student
+26031,TRUE,TRUE,TRUE,0,vjnt,Farmer Assistance,farmer
+32988,TRUE,FALSE,FALSE,1,general,Pension Scheme,pension
+98477,TRUE,TRUE,TRUE,0,st,Farmer Assistance,student
+47303,FALSE,FALSE,FALSE,0,st,Farmer Assistance,farmer
+82511,FALSE,TRUE,TRUE,1,obc,Pension Scheme,student
+40029,TRUE,FALSE,FALSE,1,sc,Labour Welfare,farmer
