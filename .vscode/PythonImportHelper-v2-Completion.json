@@ -1,0 +1,256 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "LabelEncoder",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "backend.app",
+        "description": "backend.app",
+        "peekOfCode": "def home():\n    return \"✅ Fraud Detection API is running!\"\n@app.route(\"/predict\", methods=[\"POST\"])\ndef predict():\n    try:\n        data = request.json\n        required_fields = [\n            \"amount_requested\", \"aadhaar_number\", \"multiple_claims\",\n            \"suspicious_ip_activity\", \"category\", \"scheme_name\", \"category_type\"\n        ]",
+        "detail": "backend.app",
+        "documentation": {}
+    },
+    {
+        "label": "predict",
+        "kind": 2,
+        "importPath": "backend.app",
+        "description": "backend.app",
+        "peekOfCode": "def predict():\n    try:\n        data = request.json\n        required_fields = [\n            \"amount_requested\", \"aadhaar_number\", \"multiple_claims\",\n            \"suspicious_ip_activity\", \"category\", \"scheme_name\", \"category_type\"\n        ]\n        for field in required_fields:\n            if field not in data:\n                return jsonify({\"error\": f\"Missing field: {field}\"}), 400",
+        "detail": "backend.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.app",
+        "description": "backend.app",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\n# Load model and encoders\nwith open(\"D:\\Web Development\\AI-Based-Fraud-Detection-For-Leakages-In-Maha-DBT/model/fraud_detection_model.pkl\", \"rb\") as f:\n    model = pickle.load(f)\nwith open(\"D:\\Web Development\\AI-Based-Fraud-Detection-For-Leakages-In-Maha-DBT/model/label_encoders.pkl\", \"rb\") as f:\n    label_encoders = pickle.load(f)\n# Load Aadhaar JSON database (handle encoding safely)\nwith open(\"D:\\Web Development\\AI-Based-Fraud-Detection-For-Leakages-In-Maha-DBT/model/aadhaar_verification_data.json\", \"r\", encoding=\"utf-8\") as f:\n    aadhaar_info = json.load(f)",
+        "detail": "backend.app",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "model.train_model",
+        "description": "model.train_model",
+        "peekOfCode": "df = pd.read_csv(\"mahadbt_fraud_1000_with_aadhaar_income.csv\")\n# Ensure correct data types\ndf[\"amount_requested\"] = pd.to_numeric(df[\"amount_requested\"], errors=\"coerce\")\ndf[\"income\"] = pd.to_numeric(df[\"income\"], errors=\"coerce\")\ndf[\"aadhaar_number\"] = pd.to_numeric(df[\"aadhaar_number\"], errors=\"coerce\")\n# Label encoding for categorical columns\ncategorical_columns = [\"category\", \"scheme_name\", \"category_type\"]\nlabel_encoders = {}\nfor col in categorical_columns:\n    le = LabelEncoder()",
+        "detail": "model.train_model",
+        "documentation": {}
+    },
+    {
+        "label": "df[\"amount_requested\"]",
+        "kind": 5,
+        "importPath": "model.train_model",
+        "description": "model.train_model",
+        "peekOfCode": "df[\"amount_requested\"] = pd.to_numeric(df[\"amount_requested\"], errors=\"coerce\")\ndf[\"income\"] = pd.to_numeric(df[\"income\"], errors=\"coerce\")\ndf[\"aadhaar_number\"] = pd.to_numeric(df[\"aadhaar_number\"], errors=\"coerce\")\n# Label encoding for categorical columns\ncategorical_columns = [\"category\", \"scheme_name\", \"category_type\"]\nlabel_encoders = {}\nfor col in categorical_columns:\n    le = LabelEncoder()\n    df[col] = le.fit_transform(df[col].astype(str))\n    label_encoders[col] = le",
+        "detail": "model.train_model",
+        "documentation": {}
+    },
+    {
+        "label": "df[\"income\"]",
+        "kind": 5,
+        "importPath": "model.train_model",
+        "description": "model.train_model",
+        "peekOfCode": "df[\"income\"] = pd.to_numeric(df[\"income\"], errors=\"coerce\")\ndf[\"aadhaar_number\"] = pd.to_numeric(df[\"aadhaar_number\"], errors=\"coerce\")\n# Label encoding for categorical columns\ncategorical_columns = [\"category\", \"scheme_name\", \"category_type\"]\nlabel_encoders = {}\nfor col in categorical_columns:\n    le = LabelEncoder()\n    df[col] = le.fit_transform(df[col].astype(str))\n    label_encoders[col] = le\n# Features & Labels",
+        "detail": "model.train_model",
+        "documentation": {}
+    },
+    {
+        "label": "df[\"aadhaar_number\"]",
+        "kind": 5,
+        "importPath": "model.train_model",
+        "description": "model.train_model",
+        "peekOfCode": "df[\"aadhaar_number\"] = pd.to_numeric(df[\"aadhaar_number\"], errors=\"coerce\")\n# Label encoding for categorical columns\ncategorical_columns = [\"category\", \"scheme_name\", \"category_type\"]\nlabel_encoders = {}\nfor col in categorical_columns:\n    le = LabelEncoder()\n    df[col] = le.fit_transform(df[col].astype(str))\n    label_encoders[col] = le\n# Features & Labels\nfeatures = [",
+        "detail": "model.train_model",
+        "documentation": {}
+    },
+    {
+        "label": "categorical_columns",
+        "kind": 5,
+        "importPath": "model.train_model",
+        "description": "model.train_model",
+        "peekOfCode": "categorical_columns = [\"category\", \"scheme_name\", \"category_type\"]\nlabel_encoders = {}\nfor col in categorical_columns:\n    le = LabelEncoder()\n    df[col] = le.fit_transform(df[col].astype(str))\n    label_encoders[col] = le\n# Features & Labels\nfeatures = [\n    \"amount_requested\", \"aadhaar_link_verified\", \"multiple_claims\",\n    \"suspicious_ip_activity\", \"category\", \"scheme_name\", \"category_type\",",
+        "detail": "model.train_model",
+        "documentation": {}
+    },
+    {
+        "label": "label_encoders",
+        "kind": 5,
+        "importPath": "model.train_model",
+        "description": "model.train_model",
+        "peekOfCode": "label_encoders = {}\nfor col in categorical_columns:\n    le = LabelEncoder()\n    df[col] = le.fit_transform(df[col].astype(str))\n    label_encoders[col] = le\n# Features & Labels\nfeatures = [\n    \"amount_requested\", \"aadhaar_link_verified\", \"multiple_claims\",\n    \"suspicious_ip_activity\", \"category\", \"scheme_name\", \"category_type\",\n    \"aadhaar_number\", \"income\"",
+        "detail": "model.train_model",
+        "documentation": {}
+    },
+    {
+        "label": "features",
+        "kind": 5,
+        "importPath": "model.train_model",
+        "description": "model.train_model",
+        "peekOfCode": "features = [\n    \"amount_requested\", \"aadhaar_link_verified\", \"multiple_claims\",\n    \"suspicious_ip_activity\", \"category\", \"scheme_name\", \"category_type\",\n    \"aadhaar_number\", \"income\"\n]\nX = df[features]\ny = df[\"is_fraud\"]\n# Train-test split\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)\n# Train model",
+        "detail": "model.train_model",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "model.train_model",
+        "description": "model.train_model",
+        "peekOfCode": "X = df[features]\ny = df[\"is_fraud\"]\n# Train-test split\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)\n# Train model\nmodel = RandomForestClassifier(n_estimators=100, random_state=42)\nmodel.fit(X_train, y_train)\n# Save model and encoders\nos.makedirs(\"model\", exist_ok=True)\nwith open(\"model/fraud_detection_model.pkl\", \"wb\") as f:",
+        "detail": "model.train_model",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "model.train_model",
+        "description": "model.train_model",
+        "peekOfCode": "y = df[\"is_fraud\"]\n# Train-test split\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)\n# Train model\nmodel = RandomForestClassifier(n_estimators=100, random_state=42)\nmodel.fit(X_train, y_train)\n# Save model and encoders\nos.makedirs(\"model\", exist_ok=True)\nwith open(\"model/fraud_detection_model.pkl\", \"wb\") as f:\n    pickle.dump(model, f)",
+        "detail": "model.train_model",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "model.train_model",
+        "description": "model.train_model",
+        "peekOfCode": "model = RandomForestClassifier(n_estimators=100, random_state=42)\nmodel.fit(X_train, y_train)\n# Save model and encoders\nos.makedirs(\"model\", exist_ok=True)\nwith open(\"model/fraud_detection_model.pkl\", \"wb\") as f:\n    pickle.dump(model, f)\nwith open(\"model/label_encoders.pkl\", \"wb\") as f:\n    pickle.dump(label_encoders, f)\nprint(\"✅ Model and label encoders saved successfully.\")",
+        "detail": "model.train_model",
+        "documentation": {}
+    }
+]
